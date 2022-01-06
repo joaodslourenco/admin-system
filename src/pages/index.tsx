@@ -1,7 +1,16 @@
+import Cabecalho from '../components/template/Cabecalho'
+import Layout from '../components/template/Layout'
+import MenuLateral from '../components/template/MenuLateral'
+
 export default function Home() {
   return (
-    <div className="bg-gradient-to-r from-gray-500 to-green-600 flex h-screen items-center justify-center">
-      <h1>admin</h1>
+    <div>
+      <Layout
+        titulo="Página Inicial"
+        subtitulo="Estamos construindo um template"
+      >
+        <h1>conteúdo</h1>
+      </Layout>
     </div>
   )
 }
