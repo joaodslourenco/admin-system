@@ -4,7 +4,7 @@ export default function notificacoes() {
   return (
     <div>
       <Layout
-        titulo="Notificações"
+        titulo="Alertas"
         subtitulo="Aqui você vai gerenciar suas notificações."
       >
         <h1>conteúdo</h1>
