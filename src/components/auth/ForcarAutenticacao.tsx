@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Router, { useRouter } from 'next/router'
+import { useRouter } from 'next/router'
 import loading from '../../../public/images/loading.gif'
 import useAuth from '../../data/hook/useAuth'
 
