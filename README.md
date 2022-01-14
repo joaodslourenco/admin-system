@@ -7,7 +7,7 @@
 <h1 align="center">Admin System</h1>
 
   <p align="center">
-    Work in Progress project, aimed to create a full admin system that keeps track of clients and products. Built using React, TypeScript and Next.js. 
+    Work in Progress project, aimed to create a full admin system that keeps track of clients and products. Built using React, Next.js, TypeScript, Firebase and TailwindCSS. 
     <br />
     <br />
     <a href="#">View Demo</a>
@@ -33,4 +33,5 @@ This is a work-in-progress project that aims to create a full admin system to ma
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [TypeScript](https://typescriptlang.org/)
+* [Firebase](https://firebase.google.com/)
 * [TailwindCSS](https://tailwindcss.com/)
