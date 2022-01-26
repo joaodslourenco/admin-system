@@ -1,6 +1,4 @@
-import Cabecalho from '../components/template/Cabecalho'
 import Layout from '../components/template/Layout'
-import MenuLateral from '../components/template/MenuLateral'
 
 export default function Home() {
   return (
