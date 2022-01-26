@@ -1,4 +1,6 @@
 import Layout from '../components/template/Layout'
+import Clientes from './clientes'
+import Estoque from './estoque'
 
 export default function Home() {
   return (
@@ -8,6 +10,10 @@ export default function Home() {
         subtitulo="Estamos construindo um template"
       >
         <h1>conteúdo</h1>
+        <div className="flex">
+          <Estoque />
+          <Clientes />
+        </div>
       </Layout>
     </div>
   )
